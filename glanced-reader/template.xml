@@ -19,7 +19,7 @@
   </Overview>
   <Category>Productivity:</Category>
   <WebUI>http://[IP]:[PORT:2077]</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/GlancedRSS/Unraid/main/template.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/ChillingKing/unraid-templates/main/glanced-reader/template.xml</TemplateURL>
   <Icon>https://gravatar.com/userimage/277415421/c1a51f8dc9ee46753df4f0121e7cc654.jpeg?size=256</Icon>
   <ExtraParams/>
   <PostArgs/>
